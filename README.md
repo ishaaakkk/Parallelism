@@ -113,3 +113,7 @@
  - Scheduling experiments comparing block, cyclic, and block-cyclic strategies (lab 5, C++).
  - Reproducible Makefile-driven builds and example scripts to benchmark scalability.
 
+## Autores
+
+- Ferran Mesas
+- Ishak Felfoul
