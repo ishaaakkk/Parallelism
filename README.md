@@ -10,8 +10,6 @@
  - [Build system and Makefiles](build/)
  - [Examples and sample images](examples/)
  - [Helper scripts](scripts/)
- - [Documentation and notes](docs/)
-
  ---
 
  ## Overview
