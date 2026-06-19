@@ -113,17 +113,3 @@
  - Scheduling experiments comparing block, cyclic, and block-cyclic strategies (lab 5, C++).
  - Reproducible Makefile-driven builds and example scripts to benchmark scalability.
 
- ## Recruiter-Focused Highlights
-
- - Applied shared-memory parallelism with OpenMP and task decomposition.
- - Performance-minded: instrumentation, benchmarking and scheduling trade-offs.
- - Clean project organization and reproducible builds suitable for a portfolio.
-
- ---
-
- Next steps I can take for polish:
-
- - Add `docs/IMPLEMENTATION_GUIDE.md` with detailed per-variant build and run commands.
- - Add CI (GitHub Actions) to compile and smoke-test builds on Ubuntu.
-
- If you want me to proceed, I will create the implementation guide and add a CI workflow.
